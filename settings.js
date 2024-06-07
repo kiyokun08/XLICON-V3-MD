@@ -64,7 +64,7 @@ global.themeemoji = process.env.GL_EMOJI || '👿'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "9.9% Bot"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/kiyokun08/XLICON-V3-MD ' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/kiyokun08/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "9.9% Bot"
 //________________________________________________________________________________________________________
