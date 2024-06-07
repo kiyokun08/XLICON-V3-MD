@@ -60,11 +60,11 @@ global.websitex = process.env.YT_LINK || "https://www.youtube.com/@_KiyoAintSimp
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/FS4rea2E8Q5IxD2f4PwsIy"
 //________________________________________________________________________________________________________
-global.themeemoji = process.env.GL_EMOJI || '😆'
+global.themeemoji = process.env.GL_EMOJI || '👿'
 //________________________________________________________________________________________________________
 global.wm = process.env.GL_WM || "9.9% Bot"
 //________________________________________________________________________________________________________
-global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
+global.botscript = process.env.GL_SC || 'https://github.com/kiyokun08/XLICON-V3-MD ' //script link
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "9.9% Bot"
 //________________________________________________________________________________________________________
@@ -72,7 +72,7 @@ global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 9.9% Bot"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "919863840872@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || '.'
+global.xprefix = process.env.PREFIX || '$'
 //________________________________________________________________________________________________________
 global.premium = process.env.GL_VIP || ["916009259402"] // Premium User
 //________________________________________________________________________________________________________
