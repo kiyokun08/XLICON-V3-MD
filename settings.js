@@ -50,31 +50,31 @@ global.location = process.env.GL_INFO || "Aizawl, Mizoram, India" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'Kiyokun' //ur bot name
+global.botname = process.env.BOT_NAME || '9.9% Bot' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '919863840872' //ur owner number
+global.ownernumber = process.env.SUDO || '916009259402' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Kiyokun' //ur owner name
+global.ownername = process.env.SUDO_NAME || '9.9%' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://www.youtube.com/@_KiyoAintSimp_"
 //________________________________________________________________________________________________________
 global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/FS4rea2E8Q5IxD2f4PwsIy"
 //________________________________________________________________________________________________________
-global.themeemoji = process.env.GL_EMOJI || '🏮'
+global.themeemoji = process.env.GL_EMOJI || '😆'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
+global.wm = process.env.GL_WM || "9.9% Bot"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "Kiyo kun"
+global.packname = process.env.PACK_NAME || "9.9% Bot"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY Kiyo kun"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 9.9% Bot"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "919863840872@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["919863840872"] // Premium User
+global.premium = process.env.GL_VIP || ["916009259402"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
